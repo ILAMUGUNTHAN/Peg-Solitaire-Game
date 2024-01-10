@@ -1,0 +1,11 @@
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\bin\Debug\cross game.exe.config
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\bin\Debug\cross game.exe
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\bin\Debug\cross game.pdb
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross game.csprojAssemblyReference.cache
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross_game.Form1.resources
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross_game.Properties.Resources.resources
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross game.csproj.GenerateResource.cache
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross game.csproj.CoreCompileInputs.cache
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross game.exe
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross game.pdb
+C:\Users\Illamugundhan\source\repos\dynamic User Controls\cross game\obj\Debug\cross_game.box.resources
